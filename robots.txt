@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-2ayhbs.newsyourday.com/sitemap.xml
